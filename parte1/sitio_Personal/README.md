@@ -1,0 +1,8 @@
+Creo que es aqui donde explico la parte 1 xd.
+bueno, primero cree una carpeta con el comando "mkdir" y la nombre como "parte1" ya que como es logico es la primera parte del parcial.
+Entre en esa carpeta con el comando "cd" y el nombre de la carpeta, adentro de la carpeta (parte1) cree una carpeta con el comando "mkdir" y la nombre como me señalaban, asi: "sitio_Personal".
+Dentro de "sitio_Personal" cree una carpeta con el comando "mkdir" (no se cuantas veces sea necesario especificar que crear una carptea es con mkdir) y la nombre "public", dentro de "public" cree el archivo con nombre "index.html" (aclarar que entre a las carpetas con el comando "cd"). Sali de esta carpeta con el comando "cd .." y procedi a crear otra carpeta, esta nombrada como "styles", entre a esta carpeta con... "cd" xd y dentro cree el archivo con el comando "touch" el cual nombre como "main.ccs", sali de esta carpeta con el comando "cd .." (seguire especificando los comandos aunque sea muy repetitivo ya que no estoy segura de eso).
+Cree la carpeta de nombre "scripts" con el comando "mkdir", entre a ella con "cd" y dentro de ella cree con "touch" un archivo de nombre "app.js", sali de la carpeta con "cd ..".
+Creo otra carpeta con "mkdir" nombrada "resources" y entre a ella con "cd" y cree con "touch" dos archivos: uno nombrado "images" y otro "fonts".
+sali con "cd ..", use esto repetitivamente hasta salir y quedar fuera de la carpeta nombrada "parte1".
+Y pues nada, esa es mi humilde redaccion. 
